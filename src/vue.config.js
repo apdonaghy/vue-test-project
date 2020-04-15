@@ -2,6 +2,6 @@
 module.exports = {
     outputDir: 'docs',
     assetsDir: 'assets',
-    publicPath: 'https://www.drewdonaghy.dev/vue-test-project/',
+    publicPath: '',
     runtimeCompiler: true
   }
